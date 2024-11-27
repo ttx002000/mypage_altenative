@@ -70,7 +70,7 @@ I am a second-year graduate student in Physics at Stanford University, focused o
 **Contributing Author**
 
 <div class="fs-6" style="background-color: rgba(210, 165, 125, 0.6); padding: 10px; border-radius: 5px;">
- Kwan, Y. H., Tan, T., & Devakul, T. (2024). Fractional Chern mosaic in supermoir\'e graphene. arXiv preprint arXiv:2411.08880.
+ Kwan, Y. H., Tan, T., & Devakul, T. (2024). Fractional Chern mosaic in supermoiré graphene. arXiv preprint arXiv:2411.08880.
  <a href="https://arxiv.org/abs/2411.08880">Link</a>
 </div>
 
