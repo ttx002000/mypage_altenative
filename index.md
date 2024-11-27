@@ -43,7 +43,7 @@ I am a second-year graduate student in Physics at Stanford University, focused o
 </div>
 
 <div class="fs-6" style="background-color: rgba(256, 256, 256, 0.6); padding: 10px; border-radius: 5px;">
-  Fan, F. R., Tan, T., Xiao, C., & Yao, W. (2024). Magnetic and nematic order of Bose-Fermi mixtures in moir\'e superlattices of 2D semiconductors. arXiv preprint arXiv:2407.10767.
+  Fan, F. R., Tan, T., Xiao, C., & Yao, W. (2024). Magnetic and nematic order of Bose-Fermi mixtures in moiré superlattices of 2D semiconductors. arXiv preprint arXiv:2407.10767.
  <a href="https://arxiv.org/abs/2407.10767">Link</a>
 </div>
 
