@@ -12,6 +12,11 @@ Tixuan Tan (谈体轩)
 {: .fs-8}
 **About Me:**
 
+<div style="float: left; margin-right: 15px; margin-bottom: 15px;">
+  <img src="assets\images\myself.jpg" width="400" height="400" alt="Sample Image">
+</div>
+
+
 {: .fs-6}
 I am a second-year graduate student in Physics at Stanford University, focused on Condensed Matter Theory. My supervisor is [Trithep Devakul](https://physics.stanford.edu/people/trithep-devakul) and [Steven Kivelson](https://sitp.stanford.edu/people/steven-kivelson). My research is primarily on strongly correlated electronic systems and electron-phonon systems, analytically and numerically. I obtained my Bachelor degree from University of Hong Kong, where I was a member of [Wang Yao's group](https://www.physics.hku.hk/~wangyao/). I am currently supported by Stanford Graduate Fellowship. I was born in [Maanshan, Anhui, China](https://zh.wikipedia.org/wiki/%E9%A9%AC%E9%9E%8D%E5%B1%B1%E5%B8%82%E7%AC%AC%E4%BA%8C%E4%B8%AD%E5%AD%A6).
 
