@@ -1,9 +1,39 @@
-title: Just the Docs Template
+title: Tixuan's Home Page
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
+color_scheme: light
+nav_enabled: true
+search_enabled: false
+
+
+
+
+collections:
+  tests:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "tests" collection
+    tests:
+      # Give the collection a name
+      
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      # nav_exclude: true
+      # Fold the collection in the navigation
+      # Supports true or false (default)
+      # nav_fold: true  # note: this option is new in v0.4
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      # search_exclude: true
+
+
+
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
