@@ -10,17 +10,17 @@ Tixuan Tan (谈体轩)
 [CV](https://www.overleaf.com/read/qqcvntsrfjtp#c79579)  |  [Google Scholar](https://scholar.google.com/citations?user=cMTmdfQAAAAJ&hl=zh-TW)  |  [Email: ttx2000@stanford.edu](mailto:ttx2000@stanford.edu)
 
 {: .fs-8}
-About Me:
+**About Me:**
 
 {: .fs-6}
-I am a second-year graduate student in Physics at Stanford University, focused on Condensed Matter Theory. My supervisor is [Trithep Devakul](https://physics.stanford.edu/people/trithep-devakul) and [Steven Kivelson](https://sitp.stanford.edu/people/steven-kivelson). My research is primarily on strongly correlated electronic systems and electron-phonon systems, analytically and numerically. I obtained my Bachelor degree from University of Hong Kong, where I was a member of [Wang Yao's group](https://www.physics.hku.hk/~wangyao/). I am currently supported by Stanford Graduate Fellowship. I was born in [Maanshan, China](https://zh.wikipedia.org/wiki/%E9%A9%AC%E9%9E%8D%E5%B1%B1%E5%B8%82%E7%AC%AC%E4%BA%8C%E4%B8%AD%E5%AD%A6).
+I am a second-year graduate student in Physics at Stanford University, focused on Condensed Matter Theory. My supervisor is [Trithep Devakul](https://physics.stanford.edu/people/trithep-devakul) and [Steven Kivelson](https://sitp.stanford.edu/people/steven-kivelson). My research is primarily on strongly correlated electronic systems and electron-phonon systems, analytically and numerically. I obtained my Bachelor degree from University of Hong Kong, where I was a member of [Wang Yao's group](https://www.physics.hku.hk/~wangyao/). I am currently supported by Stanford Graduate Fellowship. I was born in [Maanshan, Anhui, China](https://zh.wikipedia.org/wiki/%E9%A9%AC%E9%9E%8D%E5%B1%B1%E5%B8%82%E7%AC%AC%E4%BA%8C%E4%B8%AD%E5%AD%A6).
 
 
 {: .fs-8}
-List of Papers:
+**List of Papers:**
 
 {: .fs-6}
-First/Co-First Author
+**First/Co-First Author**
 
 <div class="fs-6" style="background-color: rgba(210, 165, 125, 0.6); padding: 10px; border-radius: 5px;">
   Tan, T., & Devakul, T. (2024). Parent Berry curvature and the ideal anomalous Hall crystal. Physical Review X, 14(4), 041040. 
@@ -62,7 +62,41 @@ First/Co-First Author
 
 
 {: .fs-6}
-Contributing Author
+**Contributing Author**
+
+<div class="fs-6" style="background-color: rgba(210, 165, 125, 0.6); padding: 10px; border-radius: 5px;">
+ Kwan, Y. H., Tan, T., & Devakul, T. (2024). Fractional Chern mosaic in supermoir\'e graphene. arXiv preprint arXiv:2411.08880.
+ <a href="https://arxiv.org/abs/2411.08880">Link</a>
+</div>
+
+
+<div class="fs-6" style="background-color: rgba(256, 256, 256, 0.6); padding: 10px; border-radius: 5px;">
+ Yang, W., Zhai, D., Tan, T., Fan, F. R., Lin, Z. & Yao, W. (2024). Fractional quantum anomalous Hall effect in a singular flat band. arXiv preprint arXiv:2405.01829.
+ <a href="https://arxiv.org/abs/2405.01829">Link</a>
+</div>
+
+
+<div class="fs-6" style="background-color: rgba(210, 165, 125, 0.6); padding: 10px; border-radius: 5px;">
+Kim, D. S., Dominguez, R. C., Mayorga-Luna, R., Ye, D., Embley, J., Tan, T., ... & Miyahara, Y. (2024). Electrostatic moiré potential from twisted hexagonal boron nitride layers. Nature materials, 23(1), 65-70.
+ <a href="https://www.nature.com/articles/s41563-023-01637-7">Link</a>
+</div>
+
+
+
+
+   <footer class="fs-4" style="text-align: center;">
+<p >Rage,Goddess,sing the rage of Peleus's son Achilles,</p>
+<p >murderous,doomed,that cost the Achaeans countless losses,</p>
+<p >hurling down to the House of Death so many sturdy souls,</p>
+<p>great fighters' souls,</p>
+<p >but made their bodies carrion,</p>
+<p >feasts for the dogs and birds,</p>
+<p >and the will of Zeus was moving toward its end.</p>
+
+ <p style="font-style: italic; " >--Homer,Iliad</p>              
+    </footer>
+
+
 
 
 ----
