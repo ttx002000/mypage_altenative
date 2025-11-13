@@ -62,6 +62,10 @@ I am a second-year graduate student in Physics at Stanford University, focused o
  <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.045405">Link</a>
 </div>
 
+<div class="fs-6" style="background-color: rgba(256, 256, 256, 0.6); padding: 10px; border-radius: 5px;">
+  Tan, T., Ledwith, P., & Devakul, T. (2025). The ideal limit of rhombohedral graphene: Interaction-induced layer-skyrmion lattices and their collective excitations. arXiv preprint arXiv:2511.07402.
+ <a href="https://arxiv.org/abs/2511.07402">Link</a>
+</div>
 
 
 
@@ -86,6 +90,10 @@ Kim, D. S., Dominguez, R. C., Mayorga-Luna, R., Ye, D., Embley, J., Tan, T., ...
  <a href="https://www.nature.com/articles/s41563-023-01637-7">Link</a>
 </div>
 
+<div class="fs-6" style="background-color: rgba(256, 256, 256, 0.6); padding: 10px; border-radius: 5px;">
+ Brandon, D., Tan, T., ... & Yasuda, Kenji. (2025). Nonvolatile Switching of Magnetism via Gate-Induced Sliding in Tetralayer Graphene. arXiv preprint arXiv:2510.00220.
+ <a href="https://arxiv.org/abs/2510.00220">Link</a>
+</div>
 
 
 
